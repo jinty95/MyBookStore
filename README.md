@@ -1,2 +1,2 @@
 # MyBookStore
-this is a web project called BookStore implementd by Java
+this is a web project called BookStore implementd in Java
